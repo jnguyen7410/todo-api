@@ -1,4 +1,4 @@
-#!/Users/jnguyen/todo-api/flask/bin/python
+#!/mnt/d/todo-api/flask/bin/python
 
 import sys
 import getopt
